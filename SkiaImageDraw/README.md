@@ -3,7 +3,7 @@ SkiaImageDraw
 
 A little testbed for SkiaSharp particularly to explore the issue of embedding images and drawing them.
 
-Created with VSMac as a "Blank Forms project" with non-XAML UI
+Created with VSMac as a "Blank Forms project" with non-XAML UI, later updated to .netstandard2.1
 
 ## More Info
 It has to use platform-specific calls to get the resources loaded.
